@@ -1,8 +1,8 @@
-{
+    {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
-    }
+    }   
 
     html,
     body {
@@ -82,7 +82,7 @@
         color: #fff;
     }
 
-}
+
 
 button.accent {
     background-color: #ff4743;
@@ -95,7 +95,7 @@ button.accent {
 }
 
 .welcome-page-container {
-    background-color: grey;
+    background-color: #2d55aa;
     width: 100%;
     max-width: 500px;
     display: inline-block;
@@ -118,7 +118,7 @@ button.accent {
 }
 
 .dialogue-container {
-    background-color: green;
+    background-color:#2d55aa;
     margin: 10px 0;
     max-width: 700px;
     margin-left: auto;
